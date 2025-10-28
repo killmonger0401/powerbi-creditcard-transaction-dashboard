@@ -9,7 +9,6 @@ This project aims to provide clear insights into credit card usage by tracking k
 - Total transaction volume and value
 - Spending trends over time
 - Customer segmentation by region and category
- 
 ---
 
 ##  Tools & Technologies
